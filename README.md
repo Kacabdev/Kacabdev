@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kacabdev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full-stack web development and C# ONE OF MY BEST PL
+- 🌱 I’m currently learning full-stack web development and C#
+-  ONE OF MY BEST PL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me /abdurahmanpanda@gmail.com
 
