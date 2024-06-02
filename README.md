@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kacabdev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full-stack web development and C#
+- 🌱 I’m currently learning full-stack web development and flutter with dart
 -  ONE OF MY BEST PL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me /abdurahmanpanda@gmail.com
