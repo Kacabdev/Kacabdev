@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @Kacabdev
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full-stack web development and C++
--  ONE OF MY BEST PL
--  Ask me everything about C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me /abdurahmanpanda@gmail.com
+<br clear="both">
 
-<!---
-Kacabdev/Kacabdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">👋 Hi, I'm Abdurahman Aden  <br>🚀 Junior Software Engineer | Front-End Web Developer in Training @ ALX  <br>💻 Passionate about crafting clean, responsive, and user-friendly web experiences  <br>🌱 Continuously learning and growing in HTML, CSS, JavaScript, and modern frameworks  <br>✨ Turning ideas into code, one line at a time</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
