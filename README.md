@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">👋 Hi, I'm Abdurahman Aden  <br>🚀 Junior Software Engineer | Front-End Web Developer in Training @ ALX  <br>💻 Passionate about crafting clean, responsive, and user-friendly web experiences  <br>🌱 Continuously learning and growing in HTML, CSS, JavaScript, and modern frameworks  <br>✨ Turning ideas into code, one line at a time</p>
+<p align="left"><strong>👋 Hi, I'm Abdurahman Aden </strong> <br>🚀 Junior Software Engineer | Front-End Web Developer in Training @ ALX  <br>💻 Passionate about crafting clean, responsive, and user-friendly web experiences  <br>🌱 Continuously learning and growing in HTML, CSS, JavaScript, and modern frameworks  <br>✨ Turning ideas into code, one line at a time</p>
 
 ###
 
