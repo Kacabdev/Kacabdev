@@ -15,3 +15,7 @@ Building software with passion and purpose.
 ![next.js](https://img.shields.io/badge/next.js-22c55e?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-22c55e?style=for-the-badge&logo=React&logoColor=white)
 ![reflex](https://img.shields.io/badge/reflex-eab308?style=for-the-badge&logo=reflex&logoColor=white)
+
+
+
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kacabdev)](https://github.com/kacabdev/github-stats)
